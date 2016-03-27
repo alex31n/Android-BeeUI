@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android BeeUI Example</string>
+    <string name="title_activity_drawable">DrawableActivity</string>
+</resources>

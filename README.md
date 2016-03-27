@@ -20,6 +20,9 @@ int color = randomColor.getRandomColor();
 textview.setBackgroundColor(color);
 
 ```
+![alt](https://github.com/alex31n/Android-BeeUI/raw/master/img_1.png)
+
+
 
 ### Drawable 
 ```java
@@ -30,6 +33,7 @@ btn2.setBackground(d);
 
 ```
 
+![alt](https://github.com/alex31n/Android-BeeUI/raw/master/img_2.png)
 
 
 
